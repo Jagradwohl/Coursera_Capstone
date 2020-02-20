@@ -14,9 +14,7 @@ Table of Contents:
 - The foursquare API was used to access venue data for all of the neighborhoods in Toronto and New York.
 
 3. Methodology / Data
-The neighborhood, latitude, and longitude were collected from wikipedia and a given json file for Toronto and New York City respectively. The data was cleaned before heading into the next step. From there the foursquare API was utilized to combine the top ten venues for each neighborhood. Next, the Kmeans Elbow Method was used to determine the optimum number of clusters, which was 3. Clustering was then performed on the combined dataframe of Toronto and New York City neighborhoods to evaluate similar neighborhoods based on nearby Venues. 
-
-The data presented in the File illustrates the cluster of neighborhoods color coded on a map of both New York City and Toronto. Then each cluster is presented in a table to better see the similarities within each cluster. 
+The neighborhood, latitude, and longitude were collected from wikipedia and a given json file for Toronto and New York City respectively. The data was cleaned before heading into the next step. From there the foursquare API was utilized to combine the top ten venues for each neighborhood. Next, the Kmeans Elbow Method was used to determine the optimum number of clusters, which was 3. Clustering was then performed on the combined dataframe of Toronto and New York City neighborhoods to evaluate similar neighborhoods based on nearby Venues. The data presented in the File illustrates the cluster of neighborhoods color coded on a map of both New York City and Toronto. Then each cluster is presented in a table to better see the similarities within each cluster. 
 
 4. Conclusion
 The purpose of this project was to compare similar neighborhoods as one piece of a market research team. For an individual who does business in New York City and is looking to expand to Tornto, we can yield insightful information as to the flavor of each neighborhood based on its popular venues. 
