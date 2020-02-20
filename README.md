@@ -1,7 +1,8 @@
 # Coursera_Capstone
 This project was completed to satisfy the final project IBM's data science professional certificate on coursera.
 
-Project Overview: extract and clean data from various online sources in order to find comparable neighborhoods between the two cities based on nearby venue preferences. The foursquare API along with kmeans clustering were used to extract and evaluate venue data.
+Project Overview: Extract and clean data from various online sources in order to find comparable neighborhoods between the two cities based on nearby venue preferences. The foursquare API along with kmeans clustering were used to extract and evaluate venue data. This information will serve a figurative stakeholder who owns a business in New York and is interested in opening up a second location in a similar neighborhood in Toronto.
+
 
 
 Table of Contents: 
